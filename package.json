@@ -1,0 +1,22 @@
+{
+  "name": "jest-cannot-find-module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@okta/okta-auth-js": "6.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "28.1.2",
+    "ts-jest": "28.0.5",
+    "typescript": "4.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Ronald Rey",
+    "email": "reyronald@gmail.com",
+    "url": "https://github.com/reyronald"
+  }
+}
